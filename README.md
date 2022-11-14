@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on BlockChain 
 - 💬 Ask me about iOS and Android
 
-<br></br>
-
 <a> Reach me at -> </a>
 
 <a href="https://www.linkedin.com/in/ghous-khan/">
