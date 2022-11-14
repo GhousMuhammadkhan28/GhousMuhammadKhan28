@@ -5,10 +5,8 @@
 - 👯 I’m looking to collaborate on BlockChain 
 - 💬 Ask me about iOS and Android
 
-<a> Reach me at -> </a>
-
-<a href="https://www.linkedin.com/in/ghous-khan/">
-  <img align="center" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ghous-khan/"> 
+LinkedIn<img align="center" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
