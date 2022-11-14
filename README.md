@@ -5,6 +5,8 @@
 
 
 
-<a href="https://www.linkedin.com/in/ghous-khan/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/ghous-khan/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
